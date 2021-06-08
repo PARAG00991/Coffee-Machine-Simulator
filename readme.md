@@ -15,9 +15,9 @@ npm start
 ```
 - To add new test file
 ```
-Put the json file in coffee-machine/testFiles and 
-and update the file name in main.ts at line number 12
-where we are defining testObjPath
+Put the json test file in coffee-machine/testFiles and update the file name in main.ts at line number 12 where we are defining testObjPath as follows:
+
+>> const testObjPath = path.join(__dirname, '../testFiles/<fileName>.json');
 ```
 
 ## Project Structure
