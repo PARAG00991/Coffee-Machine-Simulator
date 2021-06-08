@@ -6,7 +6,7 @@
 # Getting started
 - Install dependencies
 ```
-cd coffee-machine
+cd Coffee-Machine-Simulator
 npm install
 ```
 - Build and run the project
