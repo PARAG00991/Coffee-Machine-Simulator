@@ -31,4 +31,3 @@ The folder structure of this app is explained below:
 | package.json             | Contains npm dependencies as well as build scripts  
 | tsconfig.json            | Config settings for compiling source code only written in TypeScript    
 | tslint.json              | Config settings for TSLint code style checking                                                
-
